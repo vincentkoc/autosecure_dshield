@@ -1,4 +1,4 @@
 dshield_automatic_iptables
 ==========================
 
-Auto Import dshield blocklist and import to iptables as a chain
+This repo is no longer maintained, please see the [Autosecure script](https://github.com/koconder/autosecure) which includes dsheild
